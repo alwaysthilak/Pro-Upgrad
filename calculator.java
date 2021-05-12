@@ -1,4 +1,5 @@
-import java.util.Scanner;
+/* Demo for calaculator */
+  import java.util.Scanner;
 
  public class calculator
   {
@@ -55,4 +56,4 @@ import java.util.Scanner;
 																	            System.out.print("\n---------------------------------------\n");
 	}while(choice != 5);       
     }
-}
+
